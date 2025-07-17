@@ -7,7 +7,7 @@ val sampleQuestions = listOf(
         text = "What is the capital of France?",
         options = listOf("London", "Berlin", "Paris", "Madrid"),
         correctAnswerIndex = 2
-    ),
+    ),// Hi everybody
     Question(
         id = 2,
         text = "Which planet is known as the 'Red Planet'?",
